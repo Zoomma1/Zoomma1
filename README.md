@@ -1,5 +1,5 @@
 # 💫 About Me:
-Assistant software engineer at KShuttle
+Software developper at Theodo Extend
 
 
 ## 🌐 Socials:

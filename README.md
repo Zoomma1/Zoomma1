@@ -14,7 +14,7 @@ I build tools that last: a homemade deployment API in Rust, a Warhammer SaaS in 
 | [**Husker**](https://github.com/Zoomma1/Husker) | Homemade Railway: deploy services via REST API | Rust · Axum · SQLite · Docker |
 | [**Waddle**](https://github.com/Zoomma1/Waddle) | SOL/AVAX paper trading bot: mean reversion, median Sharpe ~2.32 | Python · CCXT · SQLite · Bybit |
 | [**Get Your Life Together**](https://github.com/Zoomma1/get-your-life-together) | Open-source PKM with Claude Code: a shareable second brain | Claude Code · Obsidian |
-| **Warhammer Paint Finder** | Warhammer colour matcher: K-means + ΔE LAB *(repo coming soon)* | Python · CLI |
+| [**Warhammer Paint Finder**](https://github.com/Zoomma1/Warhammer-paint-finder) | Warhammer colour matcher: K-means + ΔE LAB *(repo coming soon)* | Python · CLI |
 
 ---
 
